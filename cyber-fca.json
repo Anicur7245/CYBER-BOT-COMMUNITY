@@ -16,10 +16,10 @@
 	"AutoInstallNode": false,
 	"AntiSendAppState": true,
 	"AutoRestartMinutes": 0,
-	"RestartMQTT_Minutes": 0,
+	"Monte"
 	"Websocket_Extension": {
 		"Status": false,
-		"ResetData": false,
+		"100095155118124"
 		"AppState_Path": "appstate.json"
 	},
 	"HTML": {
